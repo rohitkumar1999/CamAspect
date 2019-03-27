@@ -1,4 +1,4 @@
-﻿#CamAspect
+﻿# CamAspect
  # Smart Security Surveillance System
   ## A centralized system for human identification and tracking.
 Person detection and tracking is one of the most important research field that has gained a lot of attention in recent years. There are lot of  surveillance cctv cameras installed around us thus, it is necessary to develop a computer vision based technology that automatically processes the real time video frames in order to track the person.
